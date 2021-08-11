@@ -30,7 +30,7 @@ export const CoursesSlider = () => {
         const[courses, setCoursesData] = useState([]);
         
         useEffect(() => {
-            axios.get('http://localhost:8800/api/udemyapi/courses')
+            axios.get('https://fast-citadel-29445.herokuapp.com/api/udemyapi/courses')
             .then(res =>{setCoursesData(res.data.result.results)})
         }, [])
 
