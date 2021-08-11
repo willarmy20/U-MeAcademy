@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "title": "Q",
+            "description": "Laqunita is a resident of Atlanta, GA. Ms. Williams served in the military for over 11 years in Information Technology. Q is currently a Freelancer and willing to help anyone in need.",
+            "image": "/images/Q.jpg"
+        },
+        {
+            "title": "Anjunique",
+            "description": "Anjunique is a 9 yr Air Force Vet. I wanted to switch careers after working in medicine for 10 yrs. I'm a heavy gamer and Twitch Affiliate. I've always been interested in technology and how the web works. The things I learned at DigitalCrafts will help me get started on my new career and push me in the right direction!",
+            "image": "/images/Sampson.jpg"
+        },
+        {
+            "title": "Andrena",
+            "description": "Andrena is an expert in CSS design, game programming and web development. Her background is in fullstack web development, sales, marketing and business development. She enjoys creating games hopes to work with a video game software development company specialzing in Python and Javascript. She enjoys dad jokes, pina coladas and long walks on the beach.",
+            "image": "/images/Andrena.jpg"
+        },
+        {
+            "title": "Mac",
+            "description": "Mac is the ultimate wild card developer. Evolving everyday to expand his knowledge in front-end , and back-end development to master the art of the full-stack developer.",
+            "image": "/images/Mac.jpg"
+        },
+        {
+            "title": "Lorenzo",
+            "description":"Full stack developer and Marine Veteran leveraging 10 years of proven experience in evaluating project progress, identifying problems, developing and implementing company procedures. Career supported by a Bachelor’s degree in Information Science. I am a highly motivated Full Stack Software Developer with a love for both back and front-end development. I am eager to join an innovative team with a positive ever evolving family environment encouraging the desire to learn as well as develop software solutions for real world business problems.",
+            "image": "/images/Lorenzo.jpg"
+        }
+    ]
+}

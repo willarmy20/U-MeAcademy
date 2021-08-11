@@ -1,0 +1,97 @@
+body{
+    width:100%;
+    font-family: 'Gadugi Bold';
+
+
+}
+
+img{
+    max-width: 100%;   
+}
+
+.mainHolder{
+    background-color: #F6F4D2;
+    margin: 0px;
+}
+
+.h1{
+    text-align: center;
+    margin: 0;
+}
+
+h2{
+    background-color: #d4e09b;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    color: #A44A3F;
+    
+}
+
+.videoHolder{
+    display:flex;
+    height: 250px;
+    width: 90%;
+    justify-content: space-between;
+    margin-left: 5%;
+    
+}
+
+
+.video{
+    height: 400px;
+}
+.video h1{
+    color:#d4e09b;
+    text-shadow: 0px, 0px, 5px, white;
+    line-height: 400px;
+    font-weight: bolder;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+}
+
+.link{
+    text-decoration: none;
+    color: #A44A3F
+    
+}
+
+.link:hover{
+    color: #CBDFBD;
+}
+
+.suggestedCourses{
+    background-color:  #d4e09b;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 75px;
+    color: #A44A3F;
+    font-weight: bold;
+    font-size: 24px;
+
+}
+
+
+.homeicon{
+    height: 45px;
+    width: 80px;
+}
+
+.about{
+    background-color: #d4e09b;
+    grid-template-columns: repeat(2, auto[col-start]);
+}
+
+.meet{
+    background-color: #d4e09b;
+    text-align: center;
+    margin: 0;
+    color: #A44A3F;
+    font-weight:500;
+    font-size: 55px;
+}

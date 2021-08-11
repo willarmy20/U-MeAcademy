@@ -1,0 +1,23 @@
+.body {
+    margin-left: 10px;
+}
+.row{
+    justify-content: center;
+}
+
+.cart-items {
+    display: block;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+.totalCost {
+    text-align: center;
+}
+
+flex-row {
+    margin-top: 15px
+}
