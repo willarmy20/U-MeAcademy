@@ -1,8 +1,8 @@
 # U-MeAcademy
 
 #### Preview of the site: 
-<img src="groupVideo.png">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cSk-SsnO1rQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/embed/cSk-SsnO1rQ" target="_blank"><img src="/client/public/groupVideo.png"><a>
+
 
 
 Welcome to U&Me Academy! Here you will find mentors and courses to help you with HTML, CSS, and Javascript. We currently offer videos to keep you motivated, Udemey courses, to help you on your journey to code and to gain knowledge. Just know your not alone on this jounrey, we are here for you. Happy coding!
