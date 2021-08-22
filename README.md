@@ -1,18 +1,22 @@
 # U-MeAcademy
 
 #### Preview of the site: 
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cSk-SsnO1rQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 Welcome to U&Me Academy! Here you will find mentors and courses to help you with HTML, CSS, and Javascript. We currently offer videos to keep you motivated, Udemey courses, to help you on your journey to code and to gain knowledge. Just know your not alone on this jounrey, we are here for you. Happy coding!
-<img width="1200" alt="Screen Shot 2021-07-27 at 12 06 39 PM" src="public/images/U&Me.png">
+<img width="750" alt="Screen Shot 2021-07-27 at 12 06 39 PM" src="/client/public/images/U&Me.png">
 
 
 ## About Us
 By clicking on the banner it will take you to a About Us page where you will receive more information about us. Once on this page you can click any one of the members pictures and this will pop up with a modal so you can get to know us a little bit better. Hope you choose one of us to be your mentor! 
-<img width="750" alt="about us" src="public/images/banner.jpg">
+<img width="1000" alt="about us" src="/client/public/images/banner.jpg">
 
 
 ## Surviving
 The Surviving section is for members to see our journey and to keep you motivated to keep going and reach your dreams to be a coder. This isnt easy but its rewarding and a great feeling to be apart of great people and finish a project together. Hop our story help you!  
-<img width="750" alt="surviving" src="">
+<img width="750" alt="surviving" src="/client/public/images/daGang.jpg">
 
 ## Suggested Courses
 We brought these courses in by using the Udemy API. We brought these course to member so they can contuine to learn and dive in even deeper from great instructor who can teach even more information to members. </br>
