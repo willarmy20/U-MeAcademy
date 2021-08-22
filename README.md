@@ -1,7 +1,7 @@
 # U-MeAcademy
 
 #### Preview of the site: 
-<a href="https://www.youtube.com/embed/cSk-SsnO1rQ" target="_self"><img src="/client/public/images/groupVideo.png"><a>
+<a href="https://www.youtube.com/embed/cSk-SsnO1rQ" target="_self"><img width="750" src="/client/public/images/groupVideo.png"><a>
 
 
 
