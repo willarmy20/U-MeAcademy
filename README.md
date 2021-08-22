@@ -49,13 +49,13 @@ The cart is where you can buy our mentorship videos and also udemy videos. </br>
 - Links/resources
 </p>
 
-## <p align="center"> Stretch Goals (Future)/p>
+## < align="center"> Stretch Goals (Future)/p>
 - Build a way to be able to book which memeber you would want to be your mentor
 - Be able to pull in a payment API to be able to checkout
 
 
 ## <p align="center"> Developer team</p>
-<p align="center">
+
 LaQuinta-[willarmy20](https://github.com/willarmy20)
 
 Andrena - [AndrenaAlexandre](https://github.com/AndrenaAlexandre)
@@ -65,4 +65,4 @@ Jason - [MacSupportPlus](https://github.com/MacSupportPlus)
 Anjunique - [sampsonnene](https://github.com/sampsonnene)
 
 Lorenzo - [WilliamsAL218](https://github.com/WilliamsAL218)
-</p>
+
