@@ -2,12 +2,12 @@
 
 #### Preview of the site: 
 Welcome to U&Me Academy! Here you will find mentors and courses to help you with HTML, CSS, and Javascript. We currently offer videos to keep you motivated, Udemey courses, to help you on your journey to code and to gain knowledge. Just know your not alone on this jounrey, we are here for you. Happy coding!
-<img width="1000" alt="Screen Shot 2021-07-27 at 12 06 39 PM" src="/client/public/images/U&Me.png">
+<img width="700" alt="Screen Shot 2021-07-27 at 12 06 39 PM" src="/client/public/images/U&Me.png">
 
 
 ## About Us
 By clicking on the banner it will take you to a About Us page where you will receive more information about us. Once on this page you can click any one of the members pictures and this will pop up with a modal so you can get to know us a little bit better. Hope you choose one of us to be your mentor! 
-<img width="500" alt="about us" src="/client/public/images/banner.jpg">
+<img width="700" alt="about us" src="/client/public/images/banner.jpg">
 
 
 ## Surviving
