@@ -7,7 +7,7 @@ Welcome to U&Me Academy! Here you will find mentors and courses to help you with
 
 ## About Us
 By clicking on the banner it will take you to a About Us page where you will receive more information about us. Once on this page you can click any one of the members pictures and this will pop up with a modal so you can get to know us a little bit better. Hope you choose one of us to be your mentor! 
-<img width="750" alt="about us" src="public/images/banner.jpg">
+<img width="750" alt="about us" src="/client/public/images/banner.jpg">
 
 
 ## Surviving
