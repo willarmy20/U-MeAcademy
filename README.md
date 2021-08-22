@@ -1,6 +1,6 @@
 # U-MeAcademy
 
-<p align="center">Preview Of Site: Press to check it out</p>
+<p align="center">Preview Of Site: Press to play..Enjoy!</p>
 <a href="https://www.youtube.com/embed/cSk-SsnO1rQ" target="_self" width="320" height="240"><p align ="center" ><img width="750" src="/client/public/images/groupVideo.png"><a></p>
 
 
