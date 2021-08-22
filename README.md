@@ -20,13 +20,13 @@ The Surviving section is for members to see our journey and to keep you motivate
 
 ## <p align="center"> Suggested Courses</p>
 We brought these courses in by using the Udemy API. We brought these course to member so they can contuine to learn and dive in even deeper from great instructor who can teach even more information to members.  This cuts down on having to find courses, we did that work for you.</br>
-<img width="750" alt="suggested courses" src="">
+
 
 
 
 ## <p align="center"> Cart </p>
 The cart is where you can buy our mentorship videos and also udemy videos. </br>
-<img width="300" height="350" alt="cart" src=""
+
 
 
 ## <p align="center"> Tech Stack </p>
