@@ -5,7 +5,7 @@
 
 Welcome to U&Me Academy! Here you will find mentors and courses to help you with HTML, CSS, and Javascript. We currently offer videos to keep you motivated, Udemey courses, to help you on your journey to code and to gain knowledge. Just know your not alone on this jounrey, we are here for you. Happy coding!
 <p align ="center" >
-<img width="750" alt="Screen Shot 2021-07-27 at 12 06 39 PM" src="/client/public/images/U&Me.png">
+<img width="750" alt="Screen Shot 2021-07-27 at 12 06 39 PM" src="/client/public/images/U&Me-1.png">
 </p>
 
 
