@@ -16,7 +16,7 @@ By clicking on the banner on the site it will take you to a About Us page where 
 
 ## <p align="center"> Surviving</p>
 The Surviving section is for members to see our journey and to keep you motivated to keep going and reach your dreams to be a coder. This isnt easy but its rewarding and a great feeling to be apart of great people and finish a project together. Hop our story help you!  
-<p align="center>
+<p align="center">
   <img width="750" alt="surviving" src="/client/public/images/daGang.jpg">
 </p>
 
