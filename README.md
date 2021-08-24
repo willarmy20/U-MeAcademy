@@ -16,7 +16,9 @@ By clicking on the banner on the site it will take you to a About Us page where 
 
 ## <p align="center"> Surviving</p>
 The Surviving section is for members to see our journey and to keep you motivated to keep going and reach your dreams to be a coder. This isnt easy but its rewarding and a great feeling to be apart of great people and finish a project together. Hop our story help you!  
-<img width="750" alt="surviving" src="/client/public/images/daGang.jpg">
+<p align="center>
+  <img width="750" alt="surviving" src="/client/public/images/daGang.jpg">
+</p>
 
 ## <p align="center"> Suggested Courses</p>
 We brought these courses in by using the Udemy API. We brought these course to member so they can contuine to learn and dive in even deeper from great instructor who can teach even more information to members.  This cuts down on having to find courses, we did that work for you.</br>
