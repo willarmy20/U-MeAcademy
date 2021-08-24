@@ -27,8 +27,8 @@ We brought these courses in by using the Udemy API. We brought these course to m
 
 
 
-## <p align="center"> Cart 
-The cart is where you can buy our mentorship videos and also udemy videos.</p></br>
+## <p align="center"> Cart</p>
+<p>The cart is where you can buy our mentorship videos and also udemy videos.</p></br>
 
 
 
