@@ -51,7 +51,7 @@ The cart is where you can buy our mentorship videos and also udemy videos. </br>
 - Links/resources
 </p>
 
-## < align="center"> Stretch Goals (Future)/p>
+## <p align="center"> Stretch Goals (Future)</p>
 - Build a way to be able to book which memeber you would want to be your mentor
 - Be able to pull in a payment API to be able to checkout
 
